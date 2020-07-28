@@ -20,17 +20,10 @@
   },
   "main": "build/blotter.js",
   "unpkg": "build/blotter.min.js",
-  "directories": {
-    "materials": "build/materials",
-  },
   "files": [
     "build/blotter.js",
     "build/blotter.min.js",
-    "build/materials/channelSplitMaterial.js"
-    "build/materials/fliesMaterial.js"
-    "build/materials/liquidDistortMaterial.js"
-    "build/materials/rollingDistortMaterial.js"
-    "build/materials/slidingDoorMaterial.js"
+    "build/materials/
   ],
   "homepage": "http://bradley.github.io/Blotter",
   "bugs": {
