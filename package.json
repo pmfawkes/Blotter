@@ -24,6 +24,9 @@
     "build/blotter.js",
     "build/blotter.min.js"
   ],
+  "directories": {
+    "materials": "materials",
+  },
   "homepage": "http://bradley.github.io/Blotter",
   "bugs": {
     "url": "https://github.com/bradley/blotter/issues"
