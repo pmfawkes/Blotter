@@ -21,7 +21,7 @@
   "main": "build/blotter.js",
   "unpkg": "build/blotter.min.js",
   "directories": {
-    "materials": "./build/materials",
+    "materials": "build/materials",
   },
   "files": [
     "build/blotter.js",
