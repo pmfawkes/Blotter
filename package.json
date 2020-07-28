@@ -23,7 +23,7 @@
   "files": [
     "build/blotter.js",
     "build/blotter.min.js",
-    "build/materials/
+    "build/materials/"
   ],
   "homepage": "http://bradley.github.io/Blotter",
   "bugs": {
